@@ -1,8 +1,8 @@
 Package: puniform
 Type: Package
 Title: Meta-Analysis Methods Correcting for Publication Bias
-Version: 0.1.0
-Date: 2018-06-25
+Version: 0.1.1
+Date: 2019-03-06
 Author: Robbie C.M. van Aert
 Maintainer: Robbie C.M. van Aert <R.C.M.vanAert@tilburguniversity.edu>
 Description: Provides meta-analysis methods that correct for
@@ -32,8 +32,8 @@ Description: Provides meta-analysis methods that correct for
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.12.15), ADGofTest (>= 0.3), stats, metafor
 LinkingTo: Rcpp
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 NeedsCompilation: yes
-Packaged: 2018-07-04 13:53:28 UTC; s787802
+Packaged: 2019-03-06 12:42:00 UTC; s787802
 Repository: CRAN
-Date/Publication: 2018-07-05 15:20:07 UTC
+Date/Publication: 2019-03-06 13:40:03 UTC

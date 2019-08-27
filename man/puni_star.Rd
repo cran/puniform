@@ -36,7 +36,7 @@ puni_star(mi, ri, ni, sdi, m1i, m2i, n1i, n2i, sd1i, sd2i, tobs, yi, vi,
 sizes (see Details)}
 
 \item{alpha}{A integer specifying the alpha level as used in primary studies
-(default is 0.05, see Details).}
+(default is 0.05 but see Details).}
 
 \item{side}{A character indicating whether the effect sizes in the primary studies
 are in the right-tail of the distribution (i.e., positive)  or in the left-tail
@@ -198,10 +198,10 @@ mi <- rnorm(25, mean = ui, sd = sdi/sqrt(ni))
 tobs <- mi/(sdi/sqrt(ni))
 
 ### Apply p-uniform* method using sample means
-puni_star(mi = mi, ni = ni, sdi = sdi, side = "right")
+puni_star(mi = mi, ni = ni, sdi = sdi, alpha = 0.05, side = "right", method = "ML")
 
 ### Apply p-uniform* method using t-values
-puni_star(tobs = tobs, ni = ni, side = "right")
+puni_star(tobs = tobs, ni = ni, alpha = 0.05, side = "right", method = "ML")
 
 }
 \references{

@@ -1,6 +1,6 @@
-b4c711737d8e6355f50bea4e936660ab *DESCRIPTION
+5ed56d5110a615475a1fccb602505cd6 *DESCRIPTION
 d1cf5a85b5f2154930d765640864caf2 *NAMESPACE
-2d518425f92a55d897be769daf5f5ed9 *NEWS.md
+a44ea3c645963badb7534413e6962756 *NEWS.md
 4706df4dcc6b9d75e5dcb07c1bc0c339 *R/LR_test.R
 91a7d9a9f435d8964f6a3a9c5d6f294c *R/RcppExports.R
 4058a506d422e2cfec226a7cfd60084b *R/approx_puni.R
@@ -11,9 +11,9 @@ fc993663d65d3237820b5cb32affa5ce *R/bounds.R
 1f221e590b3545738c0dffb1d1440403 *R/bounds_nsig.R
 bd9badc5dc636d68ef32cb1d0f61d3cc *R/data.R
 c39567f3e466b91d8989608f698e3126 *R/diffprior.R
-68db8dcc0d9b76cd5947ae4b4d87a2fb *R/draw_plot_g.R
-d2e511f1919fa10fc8c9a286123bf001 *R/draw_plot_or.R
-e2ad2aab6dbf16c4316acb231e75f7fa *R/draw_plot_r.R
+98ba6466dd70de9e54519956bb76e37d *R/draw_plot_g.R
+61299d683bbe592951c130d77cac5d4c *R/draw_plot_or.R
+ccc3c8f6d9cdb7bc61fab36e7137596b *R/draw_plot_r.R
 c4560d77e4e5691cfb9a60833b82492c *R/escompute.R
 88dc81ce9502d26eb4e1682ec79ce17b *R/esest.R
 3a40125088e6321a65ebf7fab6d09a17 *R/esest_nsig.R
@@ -26,7 +26,7 @@ e0d6a22d57e68a4c3548960a50f56520 *R/get_cv_P.R
 257b5e7a7f8fb844e7425263af5a9a2d *R/hy0.R
 f792ad510a63a287f4a889edc9d017cf *R/hybrid.R
 e2316e190d5f083fa51fc09008c9c038 *R/hyr.R
-00e66990670eef9ccfc7c0e543bf944e *R/meta_plot.R
+dd724f1415b42df5f92ac3f1a5acfd45 *R/meta_plot.R
 1007b4cd7481aaf987501026c8be7bb7 *R/ml.R
 faf7ca5dec6c7d408c8203a24c83b2fb *R/optim_ni_r.R
 e165aaf278291be7c4a99bad5eb2e470 *R/pdist_hy.R
@@ -43,8 +43,8 @@ c2909d62346878a6942c9275f3b2cfda *R/pubbias_nsig.R
 cc7dd0c5cdc3dc669ed0e5dc799791e9 *R/snapshot.R
 d42452ebd342d81105f3da7fe2c520f1 *R/snapshot_naive.R
 0a079677c6d69f6fa4837dc40b778881 *R/testeffect.R
-4d0909eb183082844c569b2f7d0d0178 *R/testeffect_nsig.R
-fb3cd1c4118d97136c65253c41198d92 *R/testhetero.R
+11fb0c80e7e06dda625e8837fe1f93d8 *R/testeffect_nsig.R
+2c153b0500db3804d7de2a4260984089 *R/testhetero.R
 116ba99380e46c48303ec287129fef20 *R/transform_nsig.R
 a5c00c0514bb9300eae22b6e0a0968a9 *R/transform_puni.R
 89eea14574f6f1ff97511041ab8136f0 *R/var_boot_fis.R
@@ -52,8 +52,8 @@ a5c00c0514bb9300eae22b6e0a0968a9 *R/transform_puni.R
 f214066f7c7ace8d7d4ac34df3be6b7b *R/var_dif_fis.R
 b09daa1aed5e0c0d55caba32da6851dc *R/var_dif_rmd.R
 aa19d0004b05b8376e154c2416db8c19 *R/var_pop.R
-762f7958167bddf6b21520ebf1594f97 *R/zzz.R
-94194fe1e537c7b624b53d4e46b53099 *README.md
+6fe2ec0283fb83bafb5f43078b5c6462 *R/zzz.R
+c5cfb5a66a18349d59ac09d0726602b1 *README.md
 65eb940abb847a488d52abc2e8ffe640 *data/data.mccall93.RData
 a444d3ee4046be0fd1bd77c9fef4534a *man/data.mccall93.Rd
 fd4b0c2ceabbda8e18a95c551bc65e09 *man/diffprior.Rd
